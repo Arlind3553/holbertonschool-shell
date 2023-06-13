@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -count root /etc/passwd
+grep -count vin /etc/passwd
